@@ -1,0 +1,501 @@
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 176, "ts": 1780325237.1038198}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 134, "ts": 1780325237.8190446}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 135, "ts": 1780325242.2255366}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 180, "ts": 1780325277.4449248}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 168, "ts": 1780325283.6906521}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 123, "ts": 1780325286.4696555}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 227, "ts": 1780325302.827528}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "ENGLAND", "n_chars": 208, "ts": 1780325306.3755567}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 190, "ts": 1780325311.144924}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 188, "ts": 1780325328.4014673}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 164, "ts": 1780325332.7087202}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "ENGLAND", "n_chars": 183, "ts": 1780325335.896884}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 218, "ts": 1780325345.9809227}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 198, "ts": 1780325348.3084657}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 211, "ts": 1780325354.4248366}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 205, "ts": 1780325362.0804014}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 207, "ts": 1780325370.137363}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 300, "ts": 1780325379.4718492}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 222, "ts": 1780325385.5369701}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 201, "ts": 1780325400.3874037}
+{"event": "message_sent", "phase": "SPRING 1901 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 201, "ts": 1780325401.0140984}
+{"event": "sc_snapshot", "phase": "SPRING 1901 MOVEMENT", "counts": {"AUSTRIA": 3, "ENGLAND": 3, "FRANCE": 3, "GERMANY": 3, "ITALY": 3, "RUSSIA": 4, "TURKEY": 3}, "ts": 1780325434.8073146}
+{"event": "orders_submitted", "phase": "SPRING 1901 MOVEMENT", "power": "ITALY", "orders": ["F NAP H", "A ROM H", "A VEN H"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780325449.049412}
+{"event": "goal_update", "phase": "FALL 1901 MOVEMENT", "power": "ITALY", "n_goals": 5, "changed": true, "ts": 1780325539.6012414}
+{"event": "relationship_change", "phase": "FALL 1901 MOVEMENT", "power": "ITALY", "target": "FRANCE", "old": "Neutral", "new": "Friendly", "delta": 1, "trigger": "state_update", "betrayal": false, "ts": 1780325539.601729}
+{"event": "relationship_change", "phase": "FALL 1901 MOVEMENT", "power": "ITALY", "target": "GERMANY", "old": "Neutral", "new": "Unfriendly", "delta": -1, "trigger": "state_update", "betrayal": false, "ts": 1780325539.601778}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 209, "ts": 1780325586.9514167}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 238, "ts": 1780325596.361154}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 259, "ts": 1780325612.537336}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 193, "ts": 1780325619.0074255}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 184, "ts": 1780325623.8065531}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 237, "ts": 1780325640.8239713}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 232, "ts": 1780325641.5173542}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 240, "ts": 1780325653.1439185}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 304, "ts": 1780325662.654171}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 217, "ts": 1780325681.9844835}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 187, "ts": 1780325693.9003654}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 221, "ts": 1780325706.1109762}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 176, "ts": 1780325712.5051003}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 275, "ts": 1780325746.8663795}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 275, "ts": 1780325763.4445143}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 275, "ts": 1780325784.586833}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "ENGLAND", "n_chars": 224, "ts": 1780325785.426384}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 221, "ts": 1780325802.2285025}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 211, "ts": 1780325803.0819862}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 209, "ts": 1780325811.7248049}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 212, "ts": 1780325821.2574995}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 209, "ts": 1780325823.3442607}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 256, "ts": 1780325838.7034793}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 151, "ts": 1780325839.523626}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 170, "ts": 1780325840.333187}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 247, "ts": 1780325850.3885396}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 418, "ts": 1780325864.4767141}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 223, "ts": 1780325865.395633}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 418, "ts": 1780325884.1815624}
+{"event": "message_sent", "phase": "FALL 1901 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 173, "ts": 1780325894.3854165}
+{"event": "sc_snapshot", "phase": "FALL 1901 MOVEMENT", "counts": {"AUSTRIA": 3, "ENGLAND": 3, "FRANCE": 3, "GERMANY": 3, "ITALY": 3, "RUSSIA": 4, "TURKEY": 3}, "ts": 1780325906.0124667}
+{"event": "orders_submitted", "phase": "FALL 1901 MOVEMENT", "power": "ITALY", "orders": ["F NAP H", "A ROM H", "A VEN H"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780325922.000945}
+{"event": "goal_update", "phase": "WINTER 1901 ADJUSTMENTS", "power": "ITALY", "n_goals": 5, "changed": true, "ts": 1780326063.7356098}
+{"event": "message_sent", "phase": "WINTER 1901 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 179, "ts": 1780326112.610677}
+{"event": "message_sent", "phase": "WINTER 1901 ADJUSTMENTS", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 157, "ts": 1780326119.610135}
+{"event": "message_sent", "phase": "WINTER 1901 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 199, "ts": 1780326130.3515575}
+{"event": "message_sent", "phase": "WINTER 1901 ADJUSTMENTS", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 200, "ts": 1780326142.980005}
+{"event": "message_sent", "phase": "WINTER 1901 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 184, "ts": 1780326165.610618}
+{"event": "message_sent", "phase": "WINTER 1901 ADJUSTMENTS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 189, "ts": 1780326166.5999494}
+{"event": "message_sent", "phase": "WINTER 1901 ADJUSTMENTS", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 243, "ts": 1780326172.222077}
+{"event": "message_sent", "phase": "WINTER 1901 ADJUSTMENTS", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 242, "ts": 1780326189.8619642}
+{"event": "message_sent", "phase": "WINTER 1901 ADJUSTMENTS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 148, "ts": 1780326207.1137125}
+{"event": "message_sent", "phase": "WINTER 1901 ADJUSTMENTS", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 141, "ts": 1780326216.3183007}
+{"event": "message_sent", "phase": "WINTER 1901 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 161, "ts": 1780326217.284251}
+{"event": "message_sent", "phase": "WINTER 1901 ADJUSTMENTS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 199, "ts": 1780326260.5748982}
+{"event": "sc_snapshot", "phase": "WINTER 1901 ADJUSTMENTS", "counts": {"AUSTRIA": 5, "ENGLAND": 4, "FRANCE": 5, "GERMANY": 5, "ITALY": 3, "RUSSIA": 6, "TURKEY": 4}, "ts": 1780326287.5542614}
+{"event": "orders_submitted", "phase": "WINTER 1901 ADJUSTMENTS", "power": "ITALY", "orders": [], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780326301.108742}
+{"event": "goal_update", "phase": "SPRING 1902 MOVEMENT", "power": "ITALY", "n_goals": 5, "changed": true, "ts": 1780326418.7967644}
+{"event": "relationship_change", "phase": "SPRING 1902 MOVEMENT", "power": "ITALY", "target": "TURKEY", "old": "Neutral", "new": "Unfriendly", "delta": -1, "trigger": "state_update", "betrayal": false, "ts": 1780326418.7975976}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 202, "ts": 1780326457.0138252}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 380, "ts": 1780326478.17915}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 261, "ts": 1780326483.9949536}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 245, "ts": 1780326507.61116}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 177, "ts": 1780326526.9556813}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 166, "ts": 1780326553.2680144}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 153, "ts": 1780326570.5830777}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 186, "ts": 1780326582.2982934}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 163, "ts": 1780326613.1667597}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 176, "ts": 1780326620.8564258}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 252, "ts": 1780326649.7855392}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 204, "ts": 1780326658.5643597}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 241, "ts": 1780326673.6877635}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 214, "ts": 1780326677.203581}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 221, "ts": 1780326678.1999898}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 272, "ts": 1780326700.7476113}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 218, "ts": 1780326703.1778097}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 242, "ts": 1780326717.4403987}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 210, "ts": 1780326718.491556}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 200, "ts": 1780326719.514935}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "ENGLAND", "n_chars": 255, "ts": 1780326734.8625515}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 205, "ts": 1780326744.8972545}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 155, "ts": 1780326758.819577}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 205, "ts": 1780326759.868179}
+{"event": "message_sent", "phase": "SPRING 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 217, "ts": 1780326760.9266393}
+{"event": "sc_snapshot", "phase": "SPRING 1902 MOVEMENT", "counts": {"AUSTRIA": 5, "ENGLAND": 4, "FRANCE": 5, "GERMANY": 5, "ITALY": 3, "RUSSIA": 6, "TURKEY": 4}, "ts": 1780326768.7266822}
+{"event": "orders_submitted", "phase": "SPRING 1902 MOVEMENT", "power": "ITALY", "orders": ["F NAP H", "A ROM H", "A VEN H"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780326783.6394017}
+{"event": "goal_update", "phase": "SPRING 1902 RETREATS", "power": "ITALY", "n_goals": 5, "changed": true, "ts": 1780326931.9932775}
+{"event": "relationship_change", "phase": "SPRING 1902 RETREATS", "power": "ITALY", "target": "AUSTRIA", "old": "Neutral", "new": "Unfriendly", "delta": -1, "trigger": "state_update", "betrayal": false, "ts": 1780326931.994119}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 216, "ts": 1780326972.9208653}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 216, "ts": 1780326979.7916124}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 233, "ts": 1780326993.003141}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 246, "ts": 1780326998.3421128}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 321, "ts": 1780327010.59801}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 291, "ts": 1780327030.340918}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 297, "ts": 1780327040.1801076}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 240, "ts": 1780327045.6850653}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 345, "ts": 1780327052.672819}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 290, "ts": 1780327069.7952466}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 268, "ts": 1780327072.4679108}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 285, "ts": 1780327089.8336735}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 266, "ts": 1780327096.1145666}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 264, "ts": 1780327109.638724}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 250, "ts": 1780327131.10207}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 187, "ts": 1780327133.8169322}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 212, "ts": 1780327150.7675068}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 301, "ts": 1780327157.0805767}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 283, "ts": 1780327166.5663872}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 212, "ts": 1780327175.5671992}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 317, "ts": 1780327192.8215303}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 200, "ts": 1780327195.4269998}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 296, "ts": 1780327196.4000359}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 316, "ts": 1780327211.1161149}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 334, "ts": 1780327214.8262186}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 295, "ts": 1780327222.594667}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 182, "ts": 1780327231.2835026}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 180, "ts": 1780327233.6419291}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 227, "ts": 1780327239.899124}
+{"event": "message_sent", "phase": "SPRING 1902 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 295, "ts": 1780327248.3453298}
+{"event": "sc_snapshot", "phase": "SPRING 1902 RETREATS", "counts": {"AUSTRIA": 5, "ENGLAND": 4, "FRANCE": 5, "GERMANY": 5, "ITALY": 3, "RUSSIA": 6, "TURKEY": 4}, "ts": 1780327259.3397915}
+{"event": "orders_submitted", "phase": "SPRING 1902 RETREATS", "power": "ITALY", "orders": [], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780327274.4958668}
+{"event": "goal_update", "phase": "FALL 1902 MOVEMENT", "power": "ITALY", "n_goals": 5, "changed": true, "ts": 1780327317.2026486}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 455, "ts": 1780327369.0916908}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 409, "ts": 1780327437.5564995}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 365, "ts": 1780327440.0753772}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 292, "ts": 1780327473.1117766}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 323, "ts": 1780327481.718153}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 299, "ts": 1780327499.3583534}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 559, "ts": 1780327546.7596123}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 330, "ts": 1780327550.8423665}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 258, "ts": 1780327602.0361154}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 262, "ts": 1780327615.8908737}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 263, "ts": 1780327618.7890666}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 310, "ts": 1780327647.2943103}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 192, "ts": 1780327659.3379312}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "ENGLAND", "n_chars": 261, "ts": 1780327664.8016195}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 295, "ts": 1780327670.7643554}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 385, "ts": 1780327692.5246801}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 368, "ts": 1780327699.9250526}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 285, "ts": 1780327704.2700493}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 407, "ts": 1780327711.7787995}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 373, "ts": 1780327728.8545628}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "GERMANY", "n_chars": 368, "ts": 1780327732.6771102}
+{"event": "message_sent", "phase": "FALL 1902 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 290, "ts": 1780327739.4194164}
+{"event": "sc_snapshot", "phase": "FALL 1902 MOVEMENT", "counts": {"AUSTRIA": 5, "ENGLAND": 4, "FRANCE": 5, "GERMANY": 5, "ITALY": 3, "RUSSIA": 6, "TURKEY": 4}, "ts": 1780327750.8712697}
+{"event": "orders_submitted", "phase": "FALL 1902 MOVEMENT", "power": "ITALY", "orders": ["F NAP H", "A ROM H", "A VEN H"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780327765.9806347}
+{"event": "goal_update", "phase": "WINTER 1902 ADJUSTMENTS", "power": "ITALY", "n_goals": 5, "changed": true, "ts": 1780327918.9815547}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 226, "ts": 1780327966.2656195}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 175, "ts": 1780327987.5461416}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 154, "ts": 1780327990.0499446}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 239, "ts": 1780328016.9663005}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 131, "ts": 1780328021.8030632}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 131, "ts": 1780328035.467352}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 131, "ts": 1780328053.9986947}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 239, "ts": 1780328063.9393885}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 175, "ts": 1780328068.1226642}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 238, "ts": 1780328081.9394825}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 192, "ts": 1780328083.1179495}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 242, "ts": 1780328099.645495}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 236, "ts": 1780328114.629197}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 194, "ts": 1780328120.196699}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 216, "ts": 1780328132.214921}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 216, "ts": 1780328134.6775308}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 201, "ts": 1780328148.807814}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 184, "ts": 1780328149.88114}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 117, "ts": 1780328152.391664}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 314, "ts": 1780328170.4889576}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 270, "ts": 1780328176.1147125}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 301, "ts": 1780328184.2549272}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 317, "ts": 1780328205.3955824}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 304, "ts": 1780328206.5259595}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 314, "ts": 1780328213.363666}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 317, "ts": 1780328230.0069103}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 304, "ts": 1780328236.1862805}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 216, "ts": 1780328237.2601502}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 354, "ts": 1780328252.7860754}
+{"event": "message_sent", "phase": "WINTER 1902 ADJUSTMENTS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 277, "ts": 1780328258.7549248}
+{"event": "sc_snapshot", "phase": "WINTER 1902 ADJUSTMENTS", "counts": {"AUSTRIA": 5, "ENGLAND": 3, "FRANCE": 5, "GERMANY": 7, "ITALY": 3, "RUSSIA": 6, "TURKEY": 4}, "ts": 1780328284.836922}
+{"event": "orders_submitted", "phase": "WINTER 1902 ADJUSTMENTS", "power": "ITALY", "orders": [], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780328300.5507152}
+{"event": "goal_update", "phase": "SPRING 1903 MOVEMENT", "power": "ITALY", "n_goals": 5, "changed": true, "ts": 1780328349.8796408}
+{"event": "relationship_change", "phase": "SPRING 1903 MOVEMENT", "power": "ITALY", "target": "FRANCE", "old": "Friendly", "new": "Unfriendly", "delta": -2, "trigger": "state_update", "betrayal": true, "ts": 1780328349.8797762}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 237, "ts": 1780328395.2691827}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 236, "ts": 1780328414.7918835}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 255, "ts": 1780328425.3844516}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 239, "ts": 1780328428.1134996}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 312, "ts": 1780328443.5103889}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 270, "ts": 1780328471.8956084}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 248, "ts": 1780328476.0086787}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 207, "ts": 1780328491.581838}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 196, "ts": 1780328522.1364472}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 188, "ts": 1780328523.3210344}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 307, "ts": 1780328542.3493843}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 180, "ts": 1780328543.5137198}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 320, "ts": 1780328546.1550844}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 256, "ts": 1780328560.5768316}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 220, "ts": 1780328569.498451}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 186, "ts": 1780328572.0046353}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 276, "ts": 1780328584.2481744}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 196, "ts": 1780328587.1144264}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 359, "ts": 1780328601.097226}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 284, "ts": 1780328602.182133}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 262, "ts": 1780328618.4464474}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 225, "ts": 1780328619.5803835}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 265, "ts": 1780328622.3987327}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 453, "ts": 1780328630.5612988}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 230, "ts": 1780328645.4456701}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 253, "ts": 1780328646.615436}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 317, "ts": 1780328671.2366116}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 290, "ts": 1780328675.7319849}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 334, "ts": 1780328688.9255104}
+{"event": "message_sent", "phase": "SPRING 1903 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 349, "ts": 1780328690.0631378}
+{"event": "sc_snapshot", "phase": "SPRING 1903 MOVEMENT", "counts": {"AUSTRIA": 5, "ENGLAND": 3, "FRANCE": 5, "GERMANY": 7, "ITALY": 3, "RUSSIA": 6, "TURKEY": 4}, "ts": 1780328694.4419856}
+{"event": "relationship_change", "phase": "SPRING 1903 MOVEMENT", "power": "ITALY", "target": "RUSSIA", "old": "Neutral", "new": "Friendly", "delta": 1, "trigger": "negotiation_diary", "betrayal": false, "ts": 1780328704.6459875}
+{"event": "relationship_change", "phase": "SPRING 1903 MOVEMENT", "power": "ITALY", "target": "TURKEY", "old": "Unfriendly", "new": "Neutral", "delta": 1, "trigger": "negotiation_diary", "betrayal": false, "ts": 1780328704.646168}
+{"event": "orders_submitted", "phase": "SPRING 1903 MOVEMENT", "power": "ITALY", "orders": ["F NAP H", "A ROM H", "A VEN H"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780328708.326517}
+{"event": "goal_update", "phase": "FALL 1903 MOVEMENT", "power": "ITALY", "n_goals": 5, "changed": true, "ts": 1780328910.347721}
+{"event": "relationship_change", "phase": "FALL 1903 MOVEMENT", "power": "ITALY", "target": "FRANCE", "old": "Unfriendly", "new": "Enemy", "delta": -1, "trigger": "state_update", "betrayal": false, "ts": 1780328910.348357}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 382, "ts": 1780328978.85014}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 365, "ts": 1780328988.6254091}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 321, "ts": 1780329016.2575858}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 314, "ts": 1780329033.7904792}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 317, "ts": 1780329040.6129427}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 310, "ts": 1780329047.4515457}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 338, "ts": 1780329061.2068062}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 309, "ts": 1780329063.9160616}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 225, "ts": 1780329075.3587806}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 444, "ts": 1780329088.1937375}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 275, "ts": 1780329094.355566}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 368, "ts": 1780329104.4775527}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 400, "ts": 1780329116.4409196}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 426, "ts": 1780329125.6213465}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 379, "ts": 1780329133.2109532}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 264, "ts": 1780329143.6739085}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 458, "ts": 1780329155.262516}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 301, "ts": 1780329162.2348187}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 434, "ts": 1780329172.030537}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 422, "ts": 1780329183.7122865}
+{"event": "message_sent", "phase": "FALL 1903 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 229, "ts": 1780329195.1741934}
+{"event": "sc_snapshot", "phase": "FALL 1903 MOVEMENT", "counts": {"AUSTRIA": 5, "ENGLAND": 3, "FRANCE": 5, "GERMANY": 7, "ITALY": 3, "RUSSIA": 6, "TURKEY": 4}, "ts": 1780329283.0049188}
+{"event": "orders_submitted", "phase": "FALL 1903 MOVEMENT", "power": "ITALY", "orders": ["F NAP H", "A ROM H", "A VEN H"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780329297.7697315}
+{"event": "sc_snapshot", "phase": "FALL 1903 RETREATS", "counts": {"AUSTRIA": 5, "ENGLAND": 3, "FRANCE": 5, "GERMANY": 7, "ITALY": 3, "RUSSIA": 6, "TURKEY": 4}, "ts": 1780329539.1951523}
+{"event": "relationship_change", "phase": "FALL 1903 RETREATS", "power": "ITALY", "target": "RUSSIA", "old": "Friendly", "new": "Neutral", "delta": -1, "trigger": "negotiation_diary", "betrayal": false, "ts": 1780329548.4791765}
+{"event": "orders_submitted", "phase": "FALL 1903 RETREATS", "power": "ITALY", "orders": [], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780329551.309466}
+{"event": "sc_snapshot", "phase": "WINTER 1903 ADJUSTMENTS", "counts": {"AUSTRIA": 5, "ENGLAND": 4, "FRANCE": 5, "GERMANY": 7, "ITALY": 3, "RUSSIA": 6, "TURKEY": 4}, "ts": 1780329723.5632997}
+{"event": "orders_submitted", "phase": "WINTER 1903 ADJUSTMENTS", "power": "ITALY", "orders": [], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780329737.169732}
+{"event": "goal_update", "phase": "SPRING 1904 MOVEMENT", "power": "ITALY", "n_goals": 5, "changed": true, "ts": 1780329849.3190022}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 251, "ts": 1780329902.31661}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 234, "ts": 1780329914.8141315}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 280, "ts": 1780329926.0160043}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "ENGLAND", "n_chars": 254, "ts": 1780329938.542431}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 398, "ts": 1780329963.4793253}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 255, "ts": 1780329969.804429}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "ENGLAND", "n_chars": 192, "ts": 1780329983.459913}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 363, "ts": 1780329992.2768753}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 318, "ts": 1780330007.6882267}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 315, "ts": 1780330012.0375018}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "ENGLAND", "n_chars": 198, "ts": 1780330024.88448}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 276, "ts": 1780330026.1631432}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 243, "ts": 1780330032.307968}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 372, "ts": 1780330046.253734}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 418, "ts": 1780330061.4747803}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 285, "ts": 1780330075.457788}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 287, "ts": 1780330076.6395652}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 265, "ts": 1780330083.0903635}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 317, "ts": 1780330095.6142955}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 290, "ts": 1780330096.8196573}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 344, "ts": 1780330107.2295833}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 378, "ts": 1780330123.1246574}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 297, "ts": 1780330126.7804084}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 431, "ts": 1780330141.1029959}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 327, "ts": 1780330149.837257}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 458, "ts": 1780330163.2158463}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 264, "ts": 1780330192.1220434}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 216, "ts": 1780330200.5751424}
+{"event": "message_sent", "phase": "SPRING 1904 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 244, "ts": 1780330208.883976}
+{"event": "sc_snapshot", "phase": "SPRING 1904 MOVEMENT", "counts": {"AUSTRIA": 5, "ENGLAND": 4, "FRANCE": 5, "GERMANY": 7, "ITALY": 3, "RUSSIA": 6, "TURKEY": 4}, "ts": 1780330234.066882}
+{"event": "relationship_change", "phase": "SPRING 1904 MOVEMENT", "power": "ITALY", "target": "RUSSIA", "old": "Neutral", "new": "Ally", "delta": 2, "trigger": "negotiation_diary", "betrayal": false, "ts": 1780330246.3769784}
+{"event": "orders_submitted", "phase": "SPRING 1904 MOVEMENT", "power": "ITALY", "orders": ["F NAP H", "A ROM H", "A VEN H"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780330250.6625059}
+{"event": "goal_update", "phase": "SPRING 1904 RETREATS", "power": "ITALY", "n_goals": 5, "changed": true, "ts": 1780330426.916331}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 211, "ts": 1780330476.0187392}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 220, "ts": 1780330490.1669307}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 178, "ts": 1780330507.00549}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 214, "ts": 1780330520.109591}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 173, "ts": 1780330529.642782}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 165, "ts": 1780330530.9106684}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 225, "ts": 1780330536.6422627}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 231, "ts": 1780330548.3419082}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 153, "ts": 1780330549.6208618}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 278, "ts": 1780330562.989736}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 255, "ts": 1780330564.2886689}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 315, "ts": 1780330577.1301656}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 246, "ts": 1780330586.1725721}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 212, "ts": 1780330602.9175575}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 191, "ts": 1780330605.5345001}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 268, "ts": 1780330611.619262}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 267, "ts": 1780330626.8110259}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 266, "ts": 1780330640.238359}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 268, "ts": 1780330650.1143284}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 280, "ts": 1780330652.8532798}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 267, "ts": 1780330663.671159}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 233, "ts": 1780330672.6947515}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 209, "ts": 1780330673.9437675}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 267, "ts": 1780330680.1597745}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 311, "ts": 1780330704.4064336}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 291, "ts": 1780330736.7919915}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 232, "ts": 1780330769.592686}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 382, "ts": 1780330778.5559418}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 239, "ts": 1780330796.8323314}
+{"event": "message_sent", "phase": "SPRING 1904 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 200, "ts": 1780330798.0699327}
+{"event": "sc_snapshot", "phase": "SPRING 1904 RETREATS", "counts": {"AUSTRIA": 5, "ENGLAND": 4, "FRANCE": 5, "GERMANY": 7, "ITALY": 3, "RUSSIA": 6, "TURKEY": 4}, "ts": 1780330807.722627}
+{"event": "orders_submitted", "phase": "SPRING 1904 RETREATS", "power": "ITALY", "orders": [], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780330823.547407}
+{"event": "goal_update", "phase": "FALL 1904 MOVEMENT", "power": "ITALY", "n_goals": 5, "changed": true, "ts": 1780330861.4148483}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 283, "ts": 1780330912.1757734}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 172, "ts": 1780330913.9400532}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 178, "ts": 1780330926.5032146}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 239, "ts": 1780330927.78898}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 218, "ts": 1780330936.6527123}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 194, "ts": 1780330937.9587755}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 229, "ts": 1780330952.0570524}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 236, "ts": 1780330953.367104}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 208, "ts": 1780330956.3068464}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 257, "ts": 1780330990.7019937}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 213, "ts": 1780330993.671416}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 197, "ts": 1780330994.9544742}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 138, "ts": 1780331083.5411701}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 125, "ts": 1780331084.8707168}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 199, "ts": 1780331103.9052541}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 195, "ts": 1780331105.2502527}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 177, "ts": 1780331127.7862408}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 188, "ts": 1780331129.1435852}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 167, "ts": 1780331133.9228098}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 187, "ts": 1780331142.9748077}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 227, "ts": 1780331144.150782}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 191, "ts": 1780331156.7005243}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 254, "ts": 1780331194.096195}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 241, "ts": 1780331195.3054068}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "ENGLAND", "n_chars": 214, "ts": 1780331196.4878674}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 232, "ts": 1780331209.6199393}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 256, "ts": 1780331215.9918134}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 247, "ts": 1780331223.4195144}
+{"event": "message_sent", "phase": "FALL 1904 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 246, "ts": 1780331233.27248}
+{"event": "sc_snapshot", "phase": "FALL 1904 MOVEMENT", "counts": {"AUSTRIA": 5, "ENGLAND": 4, "FRANCE": 5, "GERMANY": 7, "ITALY": 3, "RUSSIA": 6, "TURKEY": 4}, "ts": 1780331237.753461}
+{"event": "orders_submitted", "phase": "FALL 1904 MOVEMENT", "power": "ITALY", "orders": ["F NAP H", "A ROM H", "A VEN H"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780331253.6771445}
+{"event": "sc_snapshot", "phase": "FALL 1904 RETREATS", "counts": {"AUSTRIA": 5, "ENGLAND": 4, "FRANCE": 5, "GERMANY": 7, "ITALY": 3, "RUSSIA": 6, "TURKEY": 4}, "ts": 1780331531.7708325}
+{"event": "orders_submitted", "phase": "FALL 1904 RETREATS", "power": "ITALY", "orders": ["F NAP R APU"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780331543.3957517}
+{"event": "sc_snapshot", "phase": "WINTER 1904 ADJUSTMENTS", "counts": {"AUSTRIA": 5, "ENGLAND": 4, "FRANCE": 7, "GERMANY": 5, "ITALY": 2, "RUSSIA": 7, "TURKEY": 4}, "ts": 1780331645.8170676}
+{"event": "orders_submitted", "phase": "WINTER 1904 ADJUSTMENTS", "power": "ITALY", "orders": ["F APU D", "A ROM D", "A VEN D"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780331659.8269029}
+{"event": "goal_update", "phase": "SPRING 1905 MOVEMENT", "power": "ITALY", "n_goals": 5, "changed": true, "ts": 1780331723.0274358}
+{"event": "relationship_change", "phase": "SPRING 1905 MOVEMENT", "power": "ITALY", "target": "RUSSIA", "old": "Ally", "new": "Neutral", "delta": -2, "trigger": "state_update", "betrayal": false, "ts": 1780331723.0275517}
+{"event": "message_sent", "phase": "SPRING 1905 MOVEMENT", "sender": "ITALY", "recipient": "ENGLAND", "n_chars": 259, "ts": 1780331781.0961094}
+{"event": "message_sent", "phase": "SPRING 1905 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 287, "ts": 1780331787.6213386}
+{"event": "message_sent", "phase": "SPRING 1905 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 247, "ts": 1780331800.016934}
+{"event": "message_sent", "phase": "SPRING 1905 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 206, "ts": 1780331808.6874115}
+{"event": "message_sent", "phase": "SPRING 1905 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 293, "ts": 1780331818.0089946}
+{"event": "message_sent", "phase": "SPRING 1905 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 233, "ts": 1780331819.2968366}
+{"event": "message_sent", "phase": "SPRING 1905 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 268, "ts": 1780331827.4707623}
+{"event": "message_sent", "phase": "SPRING 1905 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 320, "ts": 1780331837.5127592}
+{"event": "message_sent", "phase": "SPRING 1905 MOVEMENT", "sender": "ITALY", "recipient": "ENGLAND", "n_chars": 231, "ts": 1780331840.638665}
+{"event": "message_sent", "phase": "SPRING 1905 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 235, "ts": 1780331938.6619253}
+{"event": "message_sent", "phase": "SPRING 1905 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 163, "ts": 1780331939.9814677}
+{"event": "message_sent", "phase": "SPRING 1905 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 194, "ts": 1780331947.5923502}
+{"event": "message_sent", "phase": "SPRING 1905 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 244, "ts": 1780331954.148976}
+{"event": "message_sent", "phase": "SPRING 1905 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 274, "ts": 1780331972.5285301}
+{"event": "message_sent", "phase": "SPRING 1905 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 218, "ts": 1780331973.8707016}
+{"event": "message_sent", "phase": "SPRING 1905 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 217, "ts": 1780331975.2031114}
+{"event": "sc_snapshot", "phase": "SPRING 1905 MOVEMENT", "counts": {"AUSTRIA": 5, "ENGLAND": 4, "FRANCE": 7, "GERMANY": 5, "ITALY": 2, "RUSSIA": 7, "TURKEY": 4}, "ts": 1780332000.1435175}
+{"event": "orders_submitted", "phase": "SPRING 1905 MOVEMENT", "power": "ITALY", "orders": ["A ROM H", "A VEN H"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780332014.2352352}
+{"event": "goal_update", "phase": "SPRING 1905 RETREATS", "power": "ITALY", "n_goals": 5, "changed": true, "ts": 1780332197.8782244}
+{"event": "message_sent", "phase": "SPRING 1905 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 178, "ts": 1780332252.6853778}
+{"event": "sc_snapshot", "phase": "SPRING 1905 RETREATS", "counts": {"AUSTRIA": 5, "ENGLAND": 4, "FRANCE": 7, "GERMANY": 5, "ITALY": 2, "RUSSIA": 7, "TURKEY": 4}, "ts": 1780332300.577793}
+{"event": "orders_submitted", "phase": "SPRING 1905 RETREATS", "power": "ITALY", "orders": ["A ROM R TUS"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780332312.1351447}
+{"event": "sc_snapshot", "phase": "FALL 1905 MOVEMENT", "counts": {"AUSTRIA": 5, "ENGLAND": 4, "FRANCE": 7, "GERMANY": 5, "ITALY": 2, "RUSSIA": 7, "TURKEY": 4}, "ts": 1780332387.9409535}
+{"event": "orders_submitted", "phase": "FALL 1905 MOVEMENT", "power": "ITALY", "orders": ["A TUS - TUN VIA", "A VEN H"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780332403.752367}
+{"event": "goal_update", "phase": "FALL 1905 RETREATS", "power": "ITALY", "n_goals": 5, "changed": true, "ts": 1780332627.7650115}
+{"event": "message_sent", "phase": "FALL 1905 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 147, "ts": 1780332680.0689573}
+{"event": "message_sent", "phase": "FALL 1905 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 120, "ts": 1780332689.9901114}
+{"event": "message_sent", "phase": "FALL 1905 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 241, "ts": 1780332707.848331}
+{"event": "message_sent", "phase": "FALL 1905 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 227, "ts": 1780332713.4930997}
+{"event": "message_sent", "phase": "FALL 1905 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 228, "ts": 1780332758.5757785}
+{"event": "sc_snapshot", "phase": "FALL 1905 RETREATS", "counts": {"AUSTRIA": 5, "ENGLAND": 4, "FRANCE": 7, "GERMANY": 5, "ITALY": 2, "RUSSIA": 7, "TURKEY": 4}, "ts": 1780332766.5459428}
+{"event": "orders_submitted", "phase": "FALL 1905 RETREATS", "power": "ITALY", "orders": [], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780332779.8048759}
+{"event": "goal_update", "phase": "WINTER 1905 ADJUSTMENTS", "power": "ITALY", "n_goals": 5, "changed": true, "ts": 1780332840.2923207}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 240, "ts": 1780332900.3347163}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 197, "ts": 1780332912.7741506}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 158, "ts": 1780332922.5253222}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 192, "ts": 1780332928.700393}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 235, "ts": 1780332942.642048}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 205, "ts": 1780332947.110276}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 216, "ts": 1780332968.0718172}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 197, "ts": 1780332971.6080947}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 148, "ts": 1780332974.9383018}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 359, "ts": 1780332990.1700287}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 254, "ts": 1780333005.4835303}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 267, "ts": 1780333015.7537918}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 209, "ts": 1780333018.6996908}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 262, "ts": 1780333035.1482959}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 214, "ts": 1780333038.4159963}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 253, "ts": 1780333046.489975}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 249, "ts": 1780333059.4360375}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 209, "ts": 1780333065.9585347}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 180, "ts": 1780333076.210169}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 143, "ts": 1780333079.1301155}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 187, "ts": 1780333086.469046}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 236, "ts": 1780333098.027457}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 247, "ts": 1780333107.6998334}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 237, "ts": 1780333117.3958948}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 189, "ts": 1780333122.2351584}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 222, "ts": 1780333133.9110162}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 226, "ts": 1780333135.1877391}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 254, "ts": 1780333155.3416734}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 196, "ts": 1780333156.639592}
+{"event": "message_sent", "phase": "WINTER 1905 ADJUSTMENTS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 249, "ts": 1780333157.885651}
+{"event": "sc_snapshot", "phase": "WINTER 1905 ADJUSTMENTS", "counts": {"AUSTRIA": 5, "ENGLAND": 5, "FRANCE": 8, "GERMANY": 5, "ITALY": 1, "RUSSIA": 4, "TURKEY": 6}, "ts": 1780333206.3032126}
+{"event": "orders_submitted", "phase": "WINTER 1905 ADJUSTMENTS", "power": "ITALY", "orders": ["A TUS D", "A VEN D"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780333221.7976205}
+{"event": "goal_update", "phase": "SPRING 1906 MOVEMENT", "power": "ITALY", "n_goals": 5, "changed": true, "ts": 1780333313.2473109}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 241, "ts": 1780333375.279025}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 218, "ts": 1780333376.8963149}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 152, "ts": 1780333378.165945}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 224, "ts": 1780333389.0006652}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 202, "ts": 1780333394.1539607}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 159, "ts": 1780333395.4422965}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 290, "ts": 1780333409.800187}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 221, "ts": 1780333411.12471}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 228, "ts": 1780333419.6982257}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 267, "ts": 1780333428.7129912}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 207, "ts": 1780333429.9567256}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 293, "ts": 1780333438.0712457}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 307, "ts": 1780333448.0873969}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 271, "ts": 1780333451.7162044}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 300, "ts": 1780333461.642126}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 251, "ts": 1780333462.907153}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 266, "ts": 1780333469.4245565}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 364, "ts": 1780333479.9687197}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 247, "ts": 1780333488.151675}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 361, "ts": 1780333495.3445923}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 363, "ts": 1780333504.435683}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 394, "ts": 1780333512.2676442}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 368, "ts": 1780333531.4044876}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 445, "ts": 1780333534.4597614}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 227, "ts": 1780333537.4600382}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 283, "ts": 1780333557.0174263}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 281, "ts": 1780333560.0761778}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 278, "ts": 1780333621.824882}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 271, "ts": 1780333634.2027233}
+{"event": "message_sent", "phase": "SPRING 1906 MOVEMENT", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 194, "ts": 1780333662.6897361}
+{"event": "sc_snapshot", "phase": "SPRING 1906 MOVEMENT", "counts": {"AUSTRIA": 5, "ENGLAND": 5, "FRANCE": 8, "GERMANY": 5, "ITALY": 1, "RUSSIA": 4, "TURKEY": 6}, "ts": 1780333679.76108}
+{"event": "orders_submitted", "phase": "SPRING 1906 MOVEMENT", "power": "ITALY", "orders": ["A VEN H"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780333696.1901445}
+{"event": "goal_update", "phase": "SPRING 1906 RETREATS", "power": "ITALY", "n_goals": 4, "changed": true, "ts": 1780333908.9118624}
+{"event": "message_sent", "phase": "SPRING 1906 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 169, "ts": 1780333927.092629}
+{"event": "message_sent", "phase": "SPRING 1906 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 288, "ts": 1780333993.1243749}
+{"event": "message_sent", "phase": "SPRING 1906 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 346, "ts": 1780334003.4695451}
+{"event": "message_sent", "phase": "SPRING 1906 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 384, "ts": 1780334018.4519868}
+{"event": "message_sent", "phase": "SPRING 1906 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 277, "ts": 1780334046.5320468}
+{"event": "message_sent", "phase": "SPRING 1906 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 380, "ts": 1780334055.6137862}
+{"event": "message_sent", "phase": "SPRING 1906 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 291, "ts": 1780334065.5163302}
+{"event": "message_sent", "phase": "SPRING 1906 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 326, "ts": 1780334074.587598}
+{"event": "sc_snapshot", "phase": "SPRING 1906 RETREATS", "counts": {"AUSTRIA": 5, "ENGLAND": 5, "FRANCE": 8, "GERMANY": 5, "ITALY": 1, "RUSSIA": 4, "TURKEY": 6}, "ts": 1780334132.4469059}
+{"event": "orders_submitted", "phase": "SPRING 1906 RETREATS", "power": "ITALY", "orders": [], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780334146.5469596}
+{"event": "sc_snapshot", "phase": "FALL 1906 MOVEMENT", "counts": {"AUSTRIA": 5, "ENGLAND": 5, "FRANCE": 8, "GERMANY": 5, "ITALY": 1, "RUSSIA": 4, "TURKEY": 6}, "ts": 1780334174.56214}
+{"event": "orders_submitted", "phase": "FALL 1906 MOVEMENT", "power": "ITALY", "orders": ["A VEN H"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780334189.9006944}
+{"event": "goal_update", "phase": "FALL 1906 RETREATS", "power": "ITALY", "n_goals": 4, "changed": true, "ts": 1780334372.9499612}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 239, "ts": 1780334402.6298492}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 208, "ts": 1780334430.3707352}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 192, "ts": 1780334449.7889569}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "AUSTRIA", "n_chars": 193, "ts": 1780334456.3975637}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 227, "ts": 1780334478.8673518}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 197, "ts": 1780334492.8606868}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 218, "ts": 1780334627.2301}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "TURKEY", "n_chars": 338, "ts": 1780334640.9399207}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 293, "ts": 1780334643.9492614}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 197, "ts": 1780334648.8111145}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 223, "ts": 1780334654.8218732}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 209, "ts": 1780334662.4062004}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 210, "ts": 1780334682.8417811}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 195, "ts": 1780334693.215822}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 248, "ts": 1780334702.284626}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 250, "ts": 1780334726.3963}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 251, "ts": 1780334733.5344276}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 250, "ts": 1780334739.0090022}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 254, "ts": 1780334753.9477673}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "FRANCE", "n_chars": 235, "ts": 1780334755.4166174}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 222, "ts": 1780334756.8705785}
+{"event": "message_sent", "phase": "FALL 1906 RETREATS", "sender": "ITALY", "recipient": "RUSSIA", "n_chars": 209, "ts": 1780334766.465519}
+{"event": "sc_snapshot", "phase": "FALL 1906 RETREATS", "counts": {"AUSTRIA": 5, "ENGLAND": 5, "FRANCE": 8, "GERMANY": 5, "ITALY": 1, "RUSSIA": 4, "TURKEY": 6}, "ts": 1780334767.8658526}
+{"event": "relationship_change", "phase": "FALL 1906 RETREATS", "power": "ITALY", "target": "TURKEY", "old": "Neutral", "new": "Unfriendly", "delta": -1, "trigger": "negotiation_diary", "betrayal": false, "ts": 1780334779.2837954}
+{"event": "orders_submitted", "phase": "FALL 1906 RETREATS", "power": "ITALY", "orders": ["A VEN R PIE"], "fallback": false, "attempt": 1, "n_support": 0, "ts": 1780334783.1083694}
